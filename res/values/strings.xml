@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Sliding Menu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_hello">HelloActivity</string>
+    <string name="one">Paragraph One</string>
+    <string name="two">Paragraph Two</string>
+    <string name="three">Paragraph Three</string>
+    <string name="four">Paragraph Four</string>
+    <string-array name="lorem">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dapibus tempor lectus, in consectetur leo suscipit vitae. Aenean blandit, dolor at congue adipiscing, libero libero vestibulum ligula, at facilisis diam arcu sit amet purus. Pellentesque tincidunt lorem eget tortor scelerisque quis dignissim sapien ullamcorper. Sed tincidunt, nisi non elementum tincidunt, nibh justo malesuada tellus, placerat venenatis eros libero id nunc. Sed lectus ligula, mollis at elementum quis, cursus sit amet ante. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed cursus auctor neque, eget elementum erat gravida eu. Donec at mauris in arcu vulputate condimentum vel ac sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed justo est, quis adipiscing velit. Quisque bibendum placerat feugiat. Vestibulum a lectus eu neque vestibulum congue. Ut dictum, felis ut consectetur venenatis, ligula arcu tincidunt metus, non viverra sem odio ut nulla. Maecenas eu varius nibh. Mauris a ligula odio, id dignissim augue.</item>
+    	<item>Suspendisse potenti. Quisque accumsan leo eget orci mattis vulputate. Donec vitae dui justo, congue consectetur sem. Nunc sit amet nulla tortor, vitae auctor lacus. Nunc at orci nulla, a sodales sapien. Integer sagittis hendrerit nisl et vehicula. Curabitur et nibh lorem.
+Morbi aliquam auctor pharetra. Etiam ac mi ut ligula blandit bibendum scelerisque vitae eros. Nullam suscipit vehicula velit at pellentesque. Nunc accumsan velit id ligula ornare ornare. Cras auctor viverra commodo. Suspendisse quis elit massa. Donec sollicitudin enim quis lacus dignissim vitae dapibus neque laoreet. Donec suscipit elementum commodo. Pellentesque eget nisl tellus, at congue ipsum. Nunc lorem lorem, sagittis vel dapibus ut, dapibus eu leo.</item>
+    	<item>In libero mi, sodales in tristique id, faucibus non arcu. Suspendisse potenti. Duis condimentum, lectus id imperdiet pulvinar, nisi libero luctus erat, in congue nisi nisl eget leo. Nulla egestas mauris vel ligula bibendum in luctus elit sollicitudin. Curabitur tincidunt vehicula magna et lacinia. Duis a est augue. Maecenas vehicula mauris eget diam accumsan a blandit mi laoreet. Nam a congue ante. Pellentesque magna est, feugiat eu mollis ac, mollis nec arcu. Vivamus scelerisque congue eros, semper porta elit bibendum eu. Cras et turpis enim, at auctor sem.</item>
+    	<item>Integer lacinia, purus quis pretium faucibus, diam quam interdum est, in volutpat purus enim a turpis. Phasellus vitae turpis at elit tempus dapibus dapibus a lorem. Etiam adipiscing ante eu purus pretium in tempus velit iaculis. Phasellus libero tellus, volutpat varius bibendum at, venenatis id eros. Quisque consectetur mattis urna, ut tincidunt magna venenatis sed. In lacus ipsum, faucibus vitae volutpat ac, tempor pulvinar dolor. Sed bibendum feugiat dui in dictum. Proin quam erat, laoreet eget feugiat at, cursus ac metus. Sed dictum magna eget neque aliquam dapibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque id egestas sem.</item>
+    </string-array>
+
+</resources>
